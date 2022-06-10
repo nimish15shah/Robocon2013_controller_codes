@@ -1,4 +1,4 @@
-# Robocon2013_controller_codes
+# Robocon2013 controller codes
 Embedded code for the controllers of robots for the Robocon2012 competition
 
 Robocon 2013 problem statement: https://robu.in/abu-robocon-2013-vietnam-theme-and-rulebook/
